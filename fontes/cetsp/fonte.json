@@ -1,0 +1,10 @@
+{
+    "url": "https://dados.prefeitura.sp.gov.br/dataset/72073ba3-2304-4bf0-ae9e-9c900cd8b5c3/resource/64ce385f-9b44-47a7-9ff1-d69b0d650498/download/fiscalizacao-eletronica-locais-fiscalizados-2026-06.csv",
+    "data": "2026-10-14",
+    "ultimaModificacao": "2026-06-22T15:53:23.374937",
+    "principal": "locais.csv",
+    "sha256": "ec226f59e82aa1b0ab21784ed9c41dbc5f9415f7d21845804820620c19f499d4",
+    "arquivos": {
+        "locais.csv": "ec226f59e82aa1b0ab21784ed9c41dbc5f9415f7d21845804820620c19f499d4"
+    }
+}

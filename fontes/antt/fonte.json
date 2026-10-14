@@ -1,0 +1,10 @@
+{
+    "url": "https://dados.antt.gov.br/dataset/79d287f4-f5ca-4385-a17c-f61f53831f17/resource/64044fcf-756e-4fd1-9cb2-a6037785829d/download/dados-dos-radares6_2026.csv",
+    "data": "2026-10-14",
+    "ultimaModificacao": "2026-07-28T11:00:20.906492",
+    "principal": "radares.csv",
+    "sha256": "a5d2b6facc9eed86a88c94bfa7870a31576db2b832daf0f664802497e60cf17d",
+    "arquivos": {
+        "radares.csv": "a5d2b6facc9eed86a88c94bfa7870a31576db2b832daf0f664802497e60cf17d"
+    }
+}

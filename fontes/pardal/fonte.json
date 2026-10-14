@@ -1,0 +1,11 @@
+{
+    "url": "https://raw.githubusercontent.com/Murkiriel/pardal/main/brasil/radares.csv",
+    "data": "2026-10-14",
+    "ultimaModificacao": null,
+    "principal": "radares.csv",
+    "sha256": "2385c4b9d35e933bfef9306df5573cbcea919c6bc26bbcf28525c855e50c3fce",
+    "arquivos": {
+        "radares.csv": "2385c4b9d35e933bfef9306df5573cbcea919c6bc26bbcf28525c855e50c3fce",
+        "catalogo.json": "20c58b43cf22d151890af51639d950973a0b8636b2b4e7f16fe20276be2447dc"
+    }
+}

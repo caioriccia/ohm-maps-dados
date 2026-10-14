@@ -1,0 +1,31 @@
+{
+    "formato": 1,
+    "sha256": "e93f53f30c9ef45e848a3e80ef6ac3d6f915a1183db58ba42ba723995a449afa",
+    "bytes": 454120,
+    "quantidade": 18921,
+    "geradoEm": "2026-10-06T13:43:38Z",
+    "meta": {
+        "sha256": "573468e5cc6ef976529a5506cacb95b8a270863c62dc19c114c835a27128227d",
+        "bytes": 2328
+    },
+    "fontes": {
+        "pardal": {
+            "data": "2026-10-06T13:43:38Z",
+            "sha256": "2385c4b9d35e933bfef9306df5573cbcea919c6bc26bbcf28525c855e50c3fce",
+            "situacao": "atualizada",
+            "copiaDe": "2026-10-14"
+        },
+        "antt": {
+            "data": "2026-07-28T11:00:20.906492",
+            "sha256": "a5d2b6facc9eed86a88c94bfa7870a31576db2b832daf0f664802497e60cf17d",
+            "situacao": "reaproveitada",
+            "copiaDe": "2026-10-14"
+        },
+        "cetsp": {
+            "data": null,
+            "sha256": "ec226f59e82aa1b0ab21784ed9c41dbc5f9415f7d21845804820620c19f499d4",
+            "situacao": "atualizada",
+            "copiaDe": "2026-10-14"
+        }
+    }
+}

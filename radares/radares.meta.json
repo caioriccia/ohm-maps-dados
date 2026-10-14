@@ -1,0 +1,67 @@
+{
+    "geradoEm": "2026-10-06T13:43:38Z",
+    "fontes": {
+        "pardal": {
+            "url": "https://raw.githubusercontent.com/Murkiriel/pardal/main/brasil/radares.csv",
+            "sha256": "2385c4b9d35e933bfef9306df5573cbcea919c6bc26bbcf28525c855e50c3fce",
+            "builtAt": "2026-10-06T13:43:38Z",
+            "linhas": 19762,
+            "situacao": "atualizada",
+            "copiaDe": "2026-10-14"
+        },
+        "antt": {
+            "url": "https://dados.antt.gov.br/dataset/79d287f4-f5ca-4385-a17c-f61f53831f17/resource/64044fcf-756e-4fd1-9cb2-a6037785829d/download/dados-dos-radares6_2026.csv",
+            "sha256": "a5d2b6facc9eed86a88c94bfa7870a31576db2b832daf0f664802497e60cf17d",
+            "lastModified": "2026-07-28T11:00:20.906492",
+            "linhas": 1256,
+            "situacao": "reaproveitada",
+            "copiaDe": "2026-10-14"
+        },
+        "cetsp": {
+            "url": "https://dados.prefeitura.sp.gov.br/dataset/72073ba3-2304-4bf0-ae9e-9c900cd8b5c3/resource/64ce385f-9b44-47a7-9ff1-d69b0d650498/download/fiscalizacao-eletronica-locais-fiscalizados-2026-06.csv",
+            "sha256": "ec226f59e82aa1b0ab21784ed9c41dbc5f9415f7d21845804820620c19f499d4",
+            "linhas": 877,
+            "geocodificados": 676,
+            "casados": 309,
+            "taxa": 0.352,
+            "situacao": "atualizada",
+            "copiaDe": "2026-10-14"
+        }
+    },
+    "contagens": {
+        "total": 18921,
+        "porTipo": {
+            "VELOCIDADE": 17610,
+            "LOMBADA": 203,
+            "SEMAFORO": 695,
+            "TRECHO": 413,
+            "FAIXA_ONIBUS": 0,
+            "RODIZIO": 0,
+            "PARADA_FAIXA": 0
+        },
+        "porFonte": {
+            "OSM": 9694,
+            "PARDAL_ORGAO": 6226,
+            "ANTT": 1172,
+            "CET_SP": 871,
+            "DNIT": 1417,
+            "INMETRO": 2671
+        },
+        "comLimite": 14938,
+        "comSentido": 3530,
+        "trechos": 413
+    },
+    "fusao": {
+        "pardal": 19182,
+        "anttAtivas": 1256,
+        "anttCasadas": 1181,
+        "anttNovas": 75,
+        "anttSentidoPreenchido": 121,
+        "cetLinhas": 877,
+        "cetGeocodificadas": 676,
+        "cetCasadas": 309,
+        "dedupRemovidos": 336,
+        "dedupMantidosSemSentido": 1090,
+        "total": 18921
+    }
+}
